@@ -26,6 +26,15 @@ $ cd python-module
 $ pip install .
 ```
 
+### Straight from GitHub
+
+```sh
+$ pip install git+git://github.com/erictleung/python-module.git
+```
+
+Use optional `--upgrade` flag to keep package up-to-date.
+
+
 ## To Use
 
 Once in Python
