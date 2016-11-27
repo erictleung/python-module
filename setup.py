@@ -7,5 +7,4 @@ setup(name='Animals',
       author='Eric',
       author_email='',
       license='CC0',
-      packages=['Animals'],
-      zip_safe=False)
+      packages=['Animals'])
