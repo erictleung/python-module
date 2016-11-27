@@ -6,7 +6,9 @@ Test Python module to get me familiar with creation and maintenance of a Python 
 
 - [Python 3](https://www.python.org/)
 
-## To Use
+## Installation
+
+### Interactively
 
 From the terminal
 
@@ -16,7 +18,17 @@ $ cd python-module
 $ python3
 ```
 
-Then once in Python
+### As Package
+
+```sh
+$ git clone https://github.com/erictleung/python-module.git
+$ cd python-module
+$ pip install .
+```
+
+## To Use
+
+Once in Python
 
 ```python
 >>> from Animals import Mammals
